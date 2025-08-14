@@ -23,7 +23,7 @@ This is a starter template with a single activity (`MainActivity`) and a `Constr
 ---
 
 ## 📂 Project Structure
-HelloJavaApp/ \n
+HelloJavaApp/
 ├── app/ # Main application module
 │ ├── build.gradle # Module-level Gradle config
 │ ├── src/main/java/... # Java source files
